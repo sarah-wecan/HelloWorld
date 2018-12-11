@@ -1,3 +1,5 @@
+![headshot](sarah_pic.jpeg)
+
 # A little insight into Sarah Guthals
 Hi Everyone! My name is Sarah Guthals and I am the author of `GitHub for Dummies`. This README will give you a bit of information about me!
 
